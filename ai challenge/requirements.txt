@@ -1,0 +1,7 @@
+langchain_community
+torch
+sentence-transformers
+pypdf
+qdrant-client
+openai
+fitz
